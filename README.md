@@ -1,4 +1,5 @@
-
+GUCera is a mock University Management System developed for display of our gains in the Database I course at the German University in Cairo.
+It comprises of stakeholders such as admins, lectureres and students. Our job was to simulate all the relations between the aforementioned stakeholders in order to have a clear system of data retrieval, entry and editing. 
 -- changed gender to be bit not binary 
 
 --all emails are varchar(50) instead of varchar(10)
